@@ -1,7 +1,7 @@
 # Welcome to my personal website! 👽🪐
 Here, I strive to showcase my passion for programming and creativity. As an avid programmer, my favorite languages include Rust, Dart, Golang, and Python. Although I like learning new paradigms and langs frequently. 
 
-Linux is my preferred operating system, and I particularly love using PopOs! for its user-friendly experience and seamless integration. When it comes to open-source applications, Blender holds a special place in my heart. Its scripting apabilities and addons i'm able to develop tools to help me create what I want!
+Linux is my preferred operating system, and I particularly love using PopOs!. When it comes to open-source applications, Blender holds a special place in my heart. Its scripting apabilities and addons i'm able to develop tools to help me create what I want!
 
 During my free time, you'll often find me engrossed in programming projects or indulging in artistic endeavors. I thoroughly enjoy combining my technical skills with my creativity to bring ideas to life. Whether it's crafting intricate animations or designing captivating visuals, I'm always exploring new ways to express my imagination.
 
