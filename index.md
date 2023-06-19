@@ -5,6 +5,11 @@
 ## Projects
 A short list of projects I've worked on over the years.
 
+
+### I'm currently working on Authenticated Matrix Clocks
+The goal is to provide trustless space-time bounds in distributed systems. 
+
+
 ### flutter-libp2p
 flutter_libp2p is implemented using rust-libp2p and FFI. Read more about rust-libp2p [here](https://github.com/libp2p/rust-libp2p)
 
