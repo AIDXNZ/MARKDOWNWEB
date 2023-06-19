@@ -8,19 +8,13 @@ During my free time, you'll often find me engrossed in programming projects or i
 My current favorite movie is "Everything Everywhere all at once." Feel free to explore my website to learn more about my programming projects, artistic creations, and the intersections of technology and creativity in my life.
 
 ---
-# Portfolio
 
-
-
-## Projects
+# Projects
 A short list of projects I've worked on over the years.
-
-
-### I'm currently working on Authenticated Matrix Clocks
+## Authenticated Matrix Clocks
 The goal is to provide trustless space-time bounds in distributed systems. 
 
-
-### flutter-libp2p
+## flutter-libp2p
 flutter_libp2p is implemented using rust-libp2p and FFI. Read more about rust-libp2p [here](https://github.com/libp2p/rust-libp2p)
 
 #### How it works 
