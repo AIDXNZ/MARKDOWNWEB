@@ -6,16 +6,15 @@
 A short list of projects I've worked on over the years.
 
 ### flutter-libp2p
-# Flutter/Dart Libp2p 
 flutter_libp2p is implemented using rust-libp2p and FFI. Read more about rust-libp2p [here](https://github.com/libp2p/rust-libp2p)
 
-## How it works 
+#### How it works 
 - Dart FFI
 - flutter_rust_bridge
 - Cbor/Json RPC using embedded websockets
 
 
-# Usage
+#### Usage
 To spawn a libp2p node in flutter_libp2p use the start method
 ````Dart
 flutter_libp2p.spawnNode();
