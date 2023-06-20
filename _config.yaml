@@ -4,14 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
  
   <br><br>
   Skills and Stuff -
-  Rust, Dart, Python
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ad87a38-a4df-4255-a8ea-cdd8325bc295" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
+  Rust, Dart, Python,
   <br><br>
   <a href="https://github.com/AIDXNZ">View My GitHub Profile</a> 
-
-
-remote-theme: pages-themes/minimal@v0.2.0
+  
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
