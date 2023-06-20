@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
    }
    p {color: grey;}
    h1 {color: white; font-size: 60px;}
-   img {border-radius: 50%;}
+   img {border-radius: 30px;}
   </style> 
   <br><br>
   Skills and Stuff -
