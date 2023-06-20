@@ -13,7 +13,7 @@ Rust, Dart, Python,
 <div data-iframe-width="300" data-iframe-height="250" data-share-badge-id="1ad87a38-a4df-4255-a8ea-cdd8325bc295" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <br><br>
 
-<img source="https://avatars.githubusercontent.com/u/24928676?v=4">
+<img src="https://avatars.githubusercontent.com/u/24928676?v=4">
 
 # Welcome!
 Hello! Welcome! Here, I strive to showcase my passion for programming and creativity. As an avid programmer, my favorite languages include Rust, Dart, Golang, and Python. Although I like learning new paradigms and langs frequently. 
