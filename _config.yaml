@@ -4,8 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <style>
    body {
    background-color: #1f2226;
-   p: white;
    }
+   p {color: grey;}
+   h1 {color: white; font-size: 60px;}
   </style> 
   <br><br>
   Skills and Stuff -
