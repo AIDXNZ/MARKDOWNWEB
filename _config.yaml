@@ -1,20 +1,6 @@
 title: Aidan M # your name (or website title) here
 logo: "https://avatars.githubusercontent.com/u/24928676?v=4" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <style>
-   body {
-   background-color: #090512;
-   }
-   p {color: #e1d7f7;}
-   h1 {color: white; font-size: 60px;}
-   img {border-radius: 30px;}
-  </style> 
-  <br><br>
-  Skills and Stuff -
-  Rust, Dart, Python,
-  <div data-iframe-width="300" data-iframe-height="250" data-share-badge-id="1ad87a38-a4df-4255-a8ea-cdd8325bc295" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <br><br>
-  <a href="https://github.com/AIDXNZ">View My GitHub Profile</a> 
+description:
   
 
 plugins:
