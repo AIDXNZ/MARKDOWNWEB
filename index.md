@@ -1,8 +1,4 @@
-<h1>
-  Hello
-</h1>
-
-# Welcome to my personal website! 👽🪐
+# Welcome!
 Hello! Welcome! Here, I strive to showcase my passion for programming and creativity. As an avid programmer, my favorite languages include Rust, Dart, Golang, and Python. Although I like learning new paradigms and langs frequently. 
 
 Linux is my preferred operating system, and I particularly love using PopOs!. When it comes to open-source applications, Blender holds a special place in my heart. Its scripting apabilities and addons i'm able to develop tools to help me create what I want!
