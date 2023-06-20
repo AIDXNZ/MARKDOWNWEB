@@ -3,7 +3,8 @@ logo: "https://avatars.githubusercontent.com/u/24928676?v=4" # your photo (or lo
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <style>
    body {
-   background-color: grey;
+   background-color: #1f2226;
+   p: white;
    }
   </style> 
   <br><br>
